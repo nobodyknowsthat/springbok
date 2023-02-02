@@ -41,6 +41,3 @@ We use [JMH](https://openjdk.org/projects/code-tools/jmh/) as the benchmark util
 The benchmark code of Springbok core library can be found under the directory `src/main/java/com/anonymous/test/benchmark`;
 The benchmark code of end-to-end evaluation can be found in the repository [`springbok-benchmark`](https://github.com/nobodyknowsthat/springbok-benchmark). The dataset can be found in this [link](https://drive.google.com/drive/folders/1a7fiNfXNXneuDJ9-mEcZmBIsT1NVde1u?usp=share_link).
 
-
-
-Note that some parameters used in this repository is for the purpose of unit tests, so they may not be the same as the parameters used in the evaluation/benchmark.
